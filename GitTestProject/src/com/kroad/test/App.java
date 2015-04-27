@@ -6,6 +6,7 @@ public class App {
 		
 		System.out.println("커밋을 해보자");
 		System.out.println("gogo commit");
+		System.out.println("웹에서 다시 수정 ㅋㅋㅋ");	
 		
 	}
 
